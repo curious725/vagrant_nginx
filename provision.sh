@@ -7,4 +7,4 @@ cp -r /vagrant/sites-enabled /etc/nginx
 
 
 
-service nginx start
+service nginx restart
